@@ -2,9 +2,9 @@
   <head>
     <style>
       .body {
-        background-color: #181a1b;
-        color: #cecac3;
-        max-width: 90%;
+        background-color: #181a1b !important;
+        color: #cecac3 !important;
+        max-width: 80%;
       }
       .h1 {
         display: none;
@@ -41,7 +41,6 @@
     <a href="https://github.com/ryanfkeepers/zmk-config-corne/actions">Corne ZMK</a>
   </center>
   <br>
-  <br>
 </html>
 ---
 
@@ -54,13 +53,9 @@ keyboard.
 
 ### Optimized for comfort
 
-Comfort boils down to three metrics:
-
-1. Palm motions.
-2. Aggregate finger travel.
-3. Extreme reaches.
-
-In short: the more you do any one of those, the more it sucks to type.
+Do more typing with less reaching.  Less finger travel.  Fewer
+stretches.  No pivoting at the wrist.  All those motions suck.  Typing
+is my livelihood.  Maybe yours as well.  It's not supposed to suck.
 
 ![finger position](./images/fingers.png)
 
