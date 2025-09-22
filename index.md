@@ -1,26 +1,47 @@
 <html>
   <head>
     <style>
-      .button {
-          display: inline-block;
-          margin-bottom: 1rem;
-          color: rgba(255,255,255,0.7);
-          background-color: #159957;
-          border-color: rgba(255,255,255,0.2);
-          border-style: solid;
-          border-width: 1px;
-          border-radius: 0.3rem;
-          transition: color 0.2s, background-color 0.2s, border-color 0.2s;
-          padding: 0.75rem 1rem;
+      .background-color: #181a1b;
+      .color: #cecac3;
+      .markdown-body h1 {
+        display: none;
+      }
+      .h1 {
+        font-size: 4em;
+      }
+      .h2 {
+        font-size: 3em;
+      }
+      .h3 {
+        font-size: 2em;
+      }
+      .h4 {
+        font-size: 1.65em;
+      }
+      .yeah-title {
+        font-size: 4em;
+        border-bottom: 1px solid #eaecef;
       }
     </style>
   </head>
   <center>
     <img alt="layout" src="./images/alpha.png">
   </center>
+  <br>
+  <center class="yeah-title">YEAH!</center>
+  <br>
+  <center>
+    <a href="https://configure.zsa.io/my_layout/view/q0aly">ZSA Oryx</a>
+  </center>
+  <center>
+    <a href="https://my.glove80.com/#/layout/user/aa814603-8e2e-42e4-85dd-e3adc38ffd31">Glove 80</a>
+  </center>
+  <center>
+    <a href="https://github.com/ryanfkeepers/zmk-config-corne/actions">Corne ZMK</a>
+  </center>
 </html>
 
-YEAH! - Delightful ergonomics with only 30 keys.  Designed for use with
+Delightful ergonomics with only 30 keys.  Designed for use with
 keyboards like [hummingbird](https://github.com/PJE66/hummingbird)
 and [tern](https://github.com/rschenk/tern), but usable on any ortholinear
 keyboard.
@@ -202,7 +223,7 @@ using it. If that didn't succeed... well, we can still be friends, right?
 
 ### Layer 1: Alpha
 
-![alpha](./images/layout.jpg)
+![alpha](./images/alpha.png)
 
 #### etoain shrldu
 
