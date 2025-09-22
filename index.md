@@ -1,22 +1,22 @@
 <html>
   <head>
     <style>
-      .body {
+      body {
         background-color: #181a1b !important;
         color: #cecac3 !important;
         max-width: 80%;
       }
-      .h1 {
-        display: none;
+      h1 {
+        inddisplay: none;
         font-size: 4em;
       }
-      .h2 {
+      h2 {
         font-size: 3em;
       }
-      .h3 {
+      h3 {
         font-size: 2em;
       }
-      .h4 {
+      h4 {
         font-size: 1.65em;
       }
       .yeah-title {
