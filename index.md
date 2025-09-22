@@ -1,12 +1,13 @@
 <html>
   <head>
     <style>
-      .background-color: #181a1b;
-      .color: #cecac3;
-      .markdown-body h1 {
-        display: none;
+      .body {
+        background-color: #181a1b;
+        color: #cecac3;
+        max-width: 90%;
       }
       .h1 {
+        display: none;
         font-size: 4em;
       }
       .h2 {
@@ -39,7 +40,10 @@
   <center>
     <a href="https://github.com/ryanfkeepers/zmk-config-corne/actions">Corne ZMK</a>
   </center>
+  <br>
+  <br>
 </html>
+---
 
 Delightful ergonomics with only 30 keys.  Designed for use with
 keyboards like [hummingbird](https://github.com/PJE66/hummingbird)
@@ -49,8 +53,6 @@ keyboard.
 ## What this layout is
 
 ### Optimized for comfort
-
-Like sliding into a plush recliner to say, _"ooh, yeah... that's nice."_
 
 Comfort boils down to three metrics:
 
