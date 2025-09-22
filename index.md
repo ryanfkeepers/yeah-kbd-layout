@@ -4,10 +4,9 @@
       body {
         background-color: #181a1b !important;
         color: #cecac3 !important;
-        max-width: 80%;
       }
       h1 {
-        inddisplay: none;
+        display: none;
         font-size: 4em;
       }
       h2 {
@@ -40,7 +39,6 @@
   <center>
     <a href="https://github.com/ryanfkeepers/zmk-config-corne/actions">Corne ZMK</a>
   </center>
-  <br>
 </html>
 ---
 
@@ -211,6 +209,8 @@ Column staggered and laptop keyboards don't take well to YEAH in particular.
 I tried making it work with kanata and my laptop keyboard.  Two keys per
 thumb is critical, and the irregular staggering between hands makes the
 left hand awkward something terrible.
+
+---
 
 ## Let's dig into the details
 
@@ -464,6 +464,8 @@ also too lazy to move them for this display.
 #### Fn keys
 
 I honestly don't use them much.  But, hey, they serve a purpose... right?
+
+---
 
 ## Thank you for reading
 
